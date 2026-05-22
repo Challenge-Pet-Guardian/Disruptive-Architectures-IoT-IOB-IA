@@ -54,7 +54,7 @@ A prova de conceito no ambiente simulado foi validada com sucesso, evidenciando 
 
 ---
 
-## 📸 Imagens do Projeto (Resultados Parciais)
+## 📸 Imagens do Projeto
 
 ### Wokwi
 ![Circuito Wokwi](/doc/wokwi-funcionando.png)
