@@ -4,8 +4,7 @@ Um protótipo de "Coleira Inteligente" com foco na saúde e rastreamento de pets
 
 ## Vídeo IoT:
 
-![Vídeo Youtube](https://youtu.be/H3lOLGCrfb4?si=o1Zv97ZVicVqEamG)
-
+[Vídeo Youtube](https://youtu.be/H3lOLGCrfb4?si=o1Zv97ZVicVqEamG)
 
 ---
 
